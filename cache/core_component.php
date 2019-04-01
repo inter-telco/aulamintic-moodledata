@@ -4,6 +4,7 @@ $cache = array (
   array (
     'access' => NULL,
 <<<<<<< HEAD
+<<<<<<< HEAD
     'admin' => '/var/www/html/admin',
     'analytics' => '/var/www/html/analytics',
     'antivirus' => '/var/www/html/lib/antivirus',
@@ -38,6 +39,8 @@ $cache = array (
     'grading' => '/var/www/html/grade/grading',
     'group' => '/var/www/html/group',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
     'admin' => '/var/www/html/aulamintic/admin',
     'analytics' => '/var/www/html/aulamintic/analytics',
     'antivirus' => '/var/www/html/aulamintic/lib/antivirus',
@@ -71,6 +74,9 @@ $cache = array (
     'grades' => '/var/www/html/aulamintic/grade',
     'grading' => '/var/www/html/aulamintic/grade/grading',
     'group' => '/var/www/html/aulamintic/group',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
     'help' => NULL,
     'hub' => NULL,
@@ -80,6 +86,7 @@ $cache = array (
     'langconfig' => NULL,
     'license' => NULL,
     'mathslib' => NULL,
+<<<<<<< HEAD
 <<<<<<< HEAD
     'media' => '/var/www/html/media',
     'message' => '/var/www/html/message',
@@ -163,6 +170,8 @@ $cache = array (
     'logstore' => '/var/www/html/admin/tool/log/store',
     'local' => '/var/www/html/local',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
     'media' => '/var/www/html/aulamintic/media',
     'message' => '/var/www/html/aulamintic/message',
     'mimetypes' => NULL,
@@ -244,12 +253,16 @@ $cache = array (
     'tinymce' => '/var/www/html/aulamintic/lib/editor/tinymce/plugins',
     'logstore' => '/var/www/html/aulamintic/admin/tool/log/store',
     'local' => '/var/www/html/aulamintic/local',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
   ),
   'plugins' => 
   array (
     'antivirus' => 
     array (
+<<<<<<< HEAD
 <<<<<<< HEAD
       'clamav' => '/var/www/html/lib/antivirus/clamav',
     ),
@@ -475,6 +488,8 @@ $cache = array (
       'stats' => '/var/www/html/report/stats',
       'usersessions' => '/var/www/html/report/usersessions',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       'clamav' => '/var/www/html/aulamintic/lib/antivirus/clamav',
     ),
     'availability' => 
@@ -698,6 +713,9 @@ $cache = array (
       'security' => '/var/www/html/aulamintic/report/security',
       'stats' => '/var/www/html/aulamintic/report/stats',
       'usersessions' => '/var/www/html/aulamintic/report/usersessions',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
     ),
     'coursereport' => 
@@ -705,6 +723,7 @@ $cache = array (
     ),
     'gradeexport' => 
     array (
+<<<<<<< HEAD
 <<<<<<< HEAD
       'ods' => '/var/www/html/grade/export/ods',
       'txt' => '/var/www/html/grade/export/txt',
@@ -811,6 +830,8 @@ $cache = array (
       'xhtml' => '/var/www/html/question/format/xhtml',
       'xml' => '/var/www/html/question/format/xml',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       'ods' => '/var/www/html/aulamintic/grade/export/ods',
       'txt' => '/var/www/html/aulamintic/grade/export/txt',
       'xls' => '/var/www/html/aulamintic/grade/export/xls',
@@ -915,6 +936,9 @@ $cache = array (
       'webct' => '/var/www/html/aulamintic/question/format/webct',
       'xhtml' => '/var/www/html/aulamintic/question/format/xhtml',
       'xml' => '/var/www/html/aulamintic/question/format/xml',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
     ),
     'plagiarism' => 
@@ -922,6 +946,7 @@ $cache = array (
     ),
     'tool' => 
     array (
+<<<<<<< HEAD
 <<<<<<< HEAD
       'analytics' => '/var/www/html/admin/tool/analytics',
       'assignmentupgrade' => '/var/www/html/admin/tool/assignmentupgrade',
@@ -1053,6 +1078,8 @@ $cache = array (
     array (
       'imagegallery' => '/var/www/html/mod/data/preset/imagegallery',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       'analytics' => '/var/www/html/aulamintic/admin/tool/analytics',
       'assignmentupgrade' => '/var/www/html/aulamintic/admin/tool/assignmentupgrade',
       'availabilityconditions' => '/var/www/html/aulamintic/admin/tool/availabilityconditions',
@@ -1182,6 +1209,9 @@ $cache = array (
     'datapreset' => 
     array (
       'imagegallery' => '/var/www/html/aulamintic/mod/data/preset/imagegallery',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
     ),
     'ltisource' => 
@@ -1189,6 +1219,7 @@ $cache = array (
     ),
     'ltiservice' => 
     array (
+<<<<<<< HEAD
 <<<<<<< HEAD
       'gradebookservices' => '/var/www/html/mod/lti/service/gradebookservices',
       'memberships' => '/var/www/html/mod/lti/service/memberships',
@@ -1296,6 +1327,8 @@ $cache = array (
       'mb2builder' => '/var/www/html/local/mb2builder',
       'reminders' => '/var/www/html/local/reminders',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       'gradebookservices' => '/var/www/html/aulamintic/mod/lti/service/gradebookservices',
       'memberships' => '/var/www/html/aulamintic/mod/lti/service/memberships',
       'profile' => '/var/www/html/aulamintic/mod/lti/service/profile',
@@ -1401,6 +1434,9 @@ $cache = array (
     array (
       'mb2builder' => '/var/www/html/aulamintic/local/mb2builder',
       'reminders' => '/var/www/html/aulamintic/local/reminders',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
     ),
   ),
@@ -1635,6 +1671,7 @@ $cache = array (
   ),
   'classmap' => 
   array (
+<<<<<<< HEAD
 <<<<<<< HEAD
     'antivirus_clamav\\privacy\\provider' => '/var/www/html/lib/antivirus/clamav/classes/privacy/provider.php',
     'antivirus_clamav\\scanner' => '/var/www/html/lib/antivirus/clamav/classes/scanner.php',
@@ -4403,6 +4440,8 @@ $cache = array (
     'workshopform_numerrors\\privacy\\provider' => '/var/www/html/mod/workshop/form/numerrors/classes/privacy/provider.php',
     'workshopform_rubric\\privacy\\provider' => '/var/www/html/mod/workshop/form/rubric/classes/privacy/provider.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
     'antivirus_clamav\\privacy\\provider' => '/var/www/html/aulamintic/lib/antivirus/clamav/classes/privacy/provider.php',
     'antivirus_clamav\\scanner' => '/var/www/html/aulamintic/lib/antivirus/clamav/classes/scanner.php',
     'antivirus_clamav_scanner' => '/var/www/html/aulamintic/lib/antivirus/clamav/classes/scanner.php',
@@ -7169,6 +7208,9 @@ $cache = array (
     'workshopform_comments\\privacy\\provider' => '/var/www/html/aulamintic/mod/workshop/form/comments/classes/privacy/provider.php',
     'workshopform_numerrors\\privacy\\provider' => '/var/www/html/aulamintic/mod/workshop/form/numerrors/classes/privacy/provider.php',
     'workshopform_rubric\\privacy\\provider' => '/var/www/html/aulamintic/mod/workshop/form/rubric/classes/privacy/provider.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
   ),
   'classmaprenames' => 
@@ -7214,6 +7256,7 @@ $cache = array (
       ),
       'qtype' => 
       array (
+<<<<<<< HEAD
 <<<<<<< HEAD
         'calculated' => '/var/www/html/question/type/calculated/lib.php',
         'calculatedmulti' => '/var/www/html/question/type/calculatedmulti/lib.php',
@@ -7261,6 +7304,8 @@ $cache = array (
       array (
         'oauth2' => '/var/www/html/auth/oauth2/lib.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'calculated' => '/var/www/html/aulamintic/question/type/calculated/lib.php',
         'calculatedmulti' => '/var/www/html/aulamintic/question/type/calculatedmulti/lib.php',
         'calculatedsimple' => '/var/www/html/aulamintic/question/type/calculatedsimple/lib.php',
@@ -7306,6 +7351,9 @@ $cache = array (
       'auth' => 
       array (
         'oauth2' => '/var/www/html/aulamintic/auth/oauth2/lib.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
       'calendartype' => 
@@ -7313,6 +7361,7 @@ $cache = array (
       ),
       'enrol' => 
       array (
+<<<<<<< HEAD
 <<<<<<< HEAD
         'category' => '/var/www/html/enrol/category/lib.php',
         'cohort' => '/var/www/html/enrol/cohort/lib.php',
@@ -7342,6 +7391,8 @@ $cache = array (
         'mb2slider' => '/var/www/html/blocks/mb2slider/lib.php',
         'myoverview' => '/var/www/html/blocks/myoverview/lib.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'category' => '/var/www/html/aulamintic/enrol/category/lib.php',
         'cohort' => '/var/www/html/aulamintic/enrol/cohort/lib.php',
         'database' => '/var/www/html/aulamintic/enrol/database/lib.php',
@@ -7369,6 +7420,9 @@ $cache = array (
         'mb2banners' => '/var/www/html/aulamintic/blocks/mb2banners/lib.php',
         'mb2slider' => '/var/www/html/aulamintic/blocks/mb2slider/lib.php',
         'myoverview' => '/var/www/html/aulamintic/blocks/myoverview/lib.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
       'media' => 
@@ -7376,6 +7430,7 @@ $cache = array (
       ),
       'filter' => 
       array (
+<<<<<<< HEAD
 <<<<<<< HEAD
         'tex' => '/var/www/html/filter/tex/lib.php',
       ),
@@ -7392,6 +7447,8 @@ $cache = array (
         'topics' => '/var/www/html/course/format/topics/lib.php',
         'weeks' => '/var/www/html/course/format/weeks/lib.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'tex' => '/var/www/html/aulamintic/filter/tex/lib.php',
       ),
       'editor' => 
@@ -7406,6 +7463,9 @@ $cache = array (
         'social' => '/var/www/html/aulamintic/course/format/social/lib.php',
         'topics' => '/var/www/html/aulamintic/course/format/topics/lib.php',
         'weeks' => '/var/www/html/aulamintic/course/format/weeks/lib.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
       'dataformat' => 
@@ -7416,6 +7476,7 @@ $cache = array (
       ),
       'report' => 
       array (
+<<<<<<< HEAD
 <<<<<<< HEAD
         'competency' => '/var/www/html/report/competency/lib.php',
         'completion' => '/var/www/html/report/completion/lib.php',
@@ -7428,6 +7489,8 @@ $cache = array (
         'stats' => '/var/www/html/report/stats/lib.php',
         'usersessions' => '/var/www/html/report/usersessions/lib.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'competency' => '/var/www/html/aulamintic/report/competency/lib.php',
         'completion' => '/var/www/html/aulamintic/report/completion/lib.php',
         'insights' => '/var/www/html/aulamintic/report/insights/lib.php',
@@ -7438,6 +7501,9 @@ $cache = array (
         'progress' => '/var/www/html/aulamintic/report/progress/lib.php',
         'stats' => '/var/www/html/aulamintic/report/stats/lib.php',
         'usersessions' => '/var/www/html/aulamintic/report/usersessions/lib.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
       'coursereport' => 
@@ -7448,6 +7514,7 @@ $cache = array (
       ),
       'gradeimport' => 
       array (
+<<<<<<< HEAD
 <<<<<<< HEAD
         'xml' => '/var/www/html/grade/import/xml/lib.php',
       ),
@@ -7463,6 +7530,8 @@ $cache = array (
         'guide' => '/var/www/html/grade/grading/form/guide/lib.php',
         'rubric' => '/var/www/html/grade/grading/form/rubric/lib.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'xml' => '/var/www/html/aulamintic/grade/import/xml/lib.php',
       ),
       'gradereport' => 
@@ -7476,6 +7545,9 @@ $cache = array (
       array (
         'guide' => '/var/www/html/aulamintic/grade/grading/form/guide/lib.php',
         'rubric' => '/var/www/html/aulamintic/grade/grading/form/rubric/lib.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
       'mlbackend' => 
@@ -7486,6 +7558,7 @@ $cache = array (
       ),
       'webservice' => 
       array (
+<<<<<<< HEAD
 <<<<<<< HEAD
         'rest' => '/var/www/html/webservice/rest/lib.php',
         'soap' => '/var/www/html/webservice/soap/lib.php',
@@ -7525,6 +7598,8 @@ $cache = array (
         'mahara' => '/var/www/html/portfolio/mahara/lib.php',
         'picasa' => '/var/www/html/portfolio/picasa/lib.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'rest' => '/var/www/html/aulamintic/webservice/rest/lib.php',
         'soap' => '/var/www/html/aulamintic/webservice/soap/lib.php',
         'xmlrpc' => '/var/www/html/aulamintic/webservice/xmlrpc/lib.php',
@@ -7562,6 +7637,9 @@ $cache = array (
         'googledocs' => '/var/www/html/aulamintic/portfolio/googledocs/lib.php',
         'mahara' => '/var/www/html/aulamintic/portfolio/mahara/lib.php',
         'picasa' => '/var/www/html/aulamintic/portfolio/picasa/lib.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
       'search' => 
@@ -7573,7 +7651,11 @@ $cache = array (
       'qformat' => 
       array (
 <<<<<<< HEAD
+<<<<<<< HEAD
         'xhtml' => '/var/www/html/question/format/xhtml/lib.php',
+=======
+        'xhtml' => '/var/www/html/aulamintic/question/format/xhtml/lib.php',
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
 =======
         'xhtml' => '/var/www/html/aulamintic/question/format/xhtml/lib.php',
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
@@ -7583,6 +7665,7 @@ $cache = array (
       ),
       'tool' => 
       array (
+<<<<<<< HEAD
 <<<<<<< HEAD
         'customlang' => '/var/www/html/admin/tool/customlang/lib.php',
         'dataprivacy' => '/var/www/html/admin/tool/dataprivacy/lib.php',
@@ -7632,6 +7715,8 @@ $cache = array (
         'editpdf' => '/var/www/html/mod/assign/feedback/editpdf/lib.php',
         'file' => '/var/www/html/mod/assign/feedback/file/lib.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'customlang' => '/var/www/html/aulamintic/admin/tool/customlang/lib.php',
         'dataprivacy' => '/var/www/html/aulamintic/admin/tool/dataprivacy/lib.php',
         'generator' => '/var/www/html/aulamintic/admin/tool/generator/lib.php',
@@ -7679,6 +7764,9 @@ $cache = array (
       array (
         'editpdf' => '/var/www/html/aulamintic/mod/assign/feedback/editpdf/lib.php',
         'file' => '/var/www/html/aulamintic/mod/assign/feedback/file/lib.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
       'assignment' => 
@@ -7687,9 +7775,15 @@ $cache = array (
       'booktool' => 
       array (
 <<<<<<< HEAD
+<<<<<<< HEAD
         'exportimscp' => '/var/www/html/mod/book/tool/exportimscp/lib.php',
         'importhtml' => '/var/www/html/mod/book/tool/importhtml/lib.php',
         'print' => '/var/www/html/mod/book/tool/print/lib.php',
+=======
+        'exportimscp' => '/var/www/html/aulamintic/mod/book/tool/exportimscp/lib.php',
+        'importhtml' => '/var/www/html/aulamintic/mod/book/tool/importhtml/lib.php',
+        'print' => '/var/www/html/aulamintic/mod/book/tool/print/lib.php',
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
 =======
         'exportimscp' => '/var/www/html/aulamintic/mod/book/tool/exportimscp/lib.php',
         'importhtml' => '/var/www/html/aulamintic/mod/book/tool/importhtml/lib.php',
@@ -7714,7 +7808,11 @@ $cache = array (
       'quiz' => 
       array (
 <<<<<<< HEAD
+<<<<<<< HEAD
         'statistics' => '/var/www/html/mod/quiz/report/statistics/lib.php',
+=======
+        'statistics' => '/var/www/html/aulamintic/mod/quiz/report/statistics/lib.php',
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
 =======
         'statistics' => '/var/www/html/aulamintic/mod/quiz/report/statistics/lib.php',
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
@@ -7727,6 +7825,7 @@ $cache = array (
       ),
       'workshopform' => 
       array (
+<<<<<<< HEAD
 <<<<<<< HEAD
         'accumulative' => '/var/www/html/mod/workshop/form/accumulative/lib.php',
         'comments' => '/var/www/html/mod/workshop/form/comments/lib.php',
@@ -7776,6 +7875,8 @@ $cache = array (
         'spellchecker' => '/var/www/html/lib/editor/tinymce/plugins/spellchecker/lib.php',
         'wrap' => '/var/www/html/lib/editor/tinymce/plugins/wrap/lib.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'accumulative' => '/var/www/html/aulamintic/mod/workshop/form/accumulative/lib.php',
         'comments' => '/var/www/html/aulamintic/mod/workshop/form/comments/lib.php',
         'numerrors' => '/var/www/html/aulamintic/mod/workshop/form/numerrors/lib.php',
@@ -7823,6 +7924,9 @@ $cache = array (
         'pdw' => '/var/www/html/aulamintic/lib/editor/tinymce/plugins/pdw/lib.php',
         'spellchecker' => '/var/www/html/aulamintic/lib/editor/tinymce/plugins/spellchecker/lib.php',
         'wrap' => '/var/www/html/aulamintic/lib/editor/tinymce/plugins/wrap/lib.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
       'logstore' => 
@@ -7831,8 +7935,13 @@ $cache = array (
       'local' => 
       array (
 <<<<<<< HEAD
+<<<<<<< HEAD
         'mb2builder' => '/var/www/html/local/mb2builder/lib.php',
         'reminders' => '/var/www/html/local/reminders/lib.php',
+=======
+        'mb2builder' => '/var/www/html/aulamintic/local/mb2builder/lib.php',
+        'reminders' => '/var/www/html/aulamintic/local/reminders/lib.php',
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
 =======
         'mb2builder' => '/var/www/html/aulamintic/local/mb2builder/lib.php',
         'reminders' => '/var/www/html/aulamintic/local/reminders/lib.php',
@@ -7844,7 +7953,11 @@ $cache = array (
       'antivirus' => 
       array (
 <<<<<<< HEAD
+<<<<<<< HEAD
         'clamav' => '/var/www/html/lib/antivirus/clamav/settings.php',
+=======
+        'clamav' => '/var/www/html/aulamintic/lib/antivirus/clamav/settings.php',
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
 =======
         'clamav' => '/var/www/html/aulamintic/lib/antivirus/clamav/settings.php',
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
@@ -7854,6 +7967,7 @@ $cache = array (
       ),
       'qtype' => 
       array (
+<<<<<<< HEAD
 <<<<<<< HEAD
         'multichoice' => '/var/www/html/question/type/multichoice/settings.php',
       ),
@@ -7892,6 +8006,8 @@ $cache = array (
         'oauth2' => '/var/www/html/auth/oauth2/settings.php',
         'shibboleth' => '/var/www/html/auth/shibboleth/settings.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'multichoice' => '/var/www/html/aulamintic/question/type/multichoice/settings.php',
       ),
       'mod' => 
@@ -7928,6 +8044,9 @@ $cache = array (
         'none' => '/var/www/html/aulamintic/auth/none/settings.php',
         'oauth2' => '/var/www/html/aulamintic/auth/oauth2/settings.php',
         'shibboleth' => '/var/www/html/aulamintic/auth/shibboleth/settings.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
       'calendartype' => 
@@ -7935,6 +8054,7 @@ $cache = array (
       ),
       'enrol' => 
       array (
+<<<<<<< HEAD
 <<<<<<< HEAD
         'category' => '/var/www/html/enrol/category/settings.php',
         'cohort' => '/var/www/html/enrol/cohort/settings.php',
@@ -7990,6 +8110,8 @@ $cache = array (
       array (
         'singleactivity' => '/var/www/html/course/format/singleactivity/settings.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'category' => '/var/www/html/aulamintic/enrol/category/settings.php',
         'cohort' => '/var/www/html/aulamintic/enrol/cohort/settings.php',
         'database' => '/var/www/html/aulamintic/enrol/database/settings.php',
@@ -8043,6 +8165,9 @@ $cache = array (
       'format' => 
       array (
         'singleactivity' => '/var/www/html/aulamintic/course/format/singleactivity/settings.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
       'dataformat' => 
@@ -8053,6 +8178,7 @@ $cache = array (
       ),
       'report' => 
       array (
+<<<<<<< HEAD
 <<<<<<< HEAD
         'backups' => '/var/www/html/report/backups/settings.php',
         'configlog' => '/var/www/html/report/configlog/settings.php',
@@ -8066,6 +8192,8 @@ $cache = array (
         'security' => '/var/www/html/report/security/settings.php',
         'stats' => '/var/www/html/report/stats/settings.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'backups' => '/var/www/html/aulamintic/report/backups/settings.php',
         'configlog' => '/var/www/html/aulamintic/report/configlog/settings.php',
         'courseoverview' => '/var/www/html/aulamintic/report/courseoverview/settings.php',
@@ -8077,6 +8205,9 @@ $cache = array (
         'questioninstances' => '/var/www/html/aulamintic/report/questioninstances/settings.php',
         'security' => '/var/www/html/aulamintic/report/security/settings.php',
         'stats' => '/var/www/html/aulamintic/report/stats/settings.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
       'coursereport' => 
@@ -8091,15 +8222,21 @@ $cache = array (
       'gradereport' => 
       array (
 <<<<<<< HEAD
+<<<<<<< HEAD
         'grader' => '/var/www/html/grade/report/grader/settings.php',
         'history' => '/var/www/html/grade/report/history/settings.php',
         'overview' => '/var/www/html/grade/report/overview/settings.php',
         'user' => '/var/www/html/grade/report/user/settings.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'grader' => '/var/www/html/aulamintic/grade/report/grader/settings.php',
         'history' => '/var/www/html/aulamintic/grade/report/history/settings.php',
         'overview' => '/var/www/html/aulamintic/grade/report/overview/settings.php',
         'user' => '/var/www/html/aulamintic/grade/report/user/settings.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
       'gradingform' => 
@@ -8123,7 +8260,11 @@ $cache = array (
       'search' => 
       array (
 <<<<<<< HEAD
+<<<<<<< HEAD
         'solr' => '/var/www/html/search/engine/solr/settings.php',
+=======
+        'solr' => '/var/www/html/aulamintic/search/engine/solr/settings.php',
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
 =======
         'solr' => '/var/www/html/aulamintic/search/engine/solr/settings.php',
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
@@ -8139,6 +8280,7 @@ $cache = array (
       ),
       'tool' => 
       array (
+<<<<<<< HEAD
 <<<<<<< HEAD
         'analytics' => '/var/www/html/admin/tool/analytics/settings.php',
         'assignmentupgrade' => '/var/www/html/admin/tool/assignmentupgrade/settings.php',
@@ -8187,6 +8329,8 @@ $cache = array (
         'mongodb' => '/var/www/html/cache/stores/mongodb/settings.php',
         'redis' => '/var/www/html/cache/stores/redis/settings.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'analytics' => '/var/www/html/aulamintic/admin/tool/analytics/settings.php',
         'assignmentupgrade' => '/var/www/html/aulamintic/admin/tool/assignmentupgrade/settings.php',
         'availabilityconditions' => '/var/www/html/aulamintic/admin/tool/availabilityconditions/settings.php',
@@ -8233,6 +8377,9 @@ $cache = array (
         'memcached' => '/var/www/html/aulamintic/cache/stores/memcached/settings.php',
         'mongodb' => '/var/www/html/aulamintic/cache/stores/mongodb/settings.php',
         'redis' => '/var/www/html/aulamintic/cache/stores/redis/settings.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
       'cachelock' => 
@@ -8240,6 +8387,7 @@ $cache = array (
       ),
       'fileconverter' => 
       array (
+<<<<<<< HEAD
 <<<<<<< HEAD
         'googledrive' => '/var/www/html/files/converter/googledrive/settings.php',
         'unoconv' => '/var/www/html/files/converter/unoconv/settings.php',
@@ -8263,6 +8411,8 @@ $cache = array (
         'file' => '/var/www/html/mod/assign/feedback/file/settings.php',
         'offline' => '/var/www/html/mod/assign/feedback/offline/settings.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'googledrive' => '/var/www/html/aulamintic/files/converter/googledrive/settings.php',
         'unoconv' => '/var/www/html/aulamintic/files/converter/unoconv/settings.php',
       ),
@@ -8284,6 +8434,9 @@ $cache = array (
         'editpdf' => '/var/www/html/aulamintic/mod/assign/feedback/editpdf/settings.php',
         'file' => '/var/www/html/aulamintic/mod/assign/feedback/file/settings.php',
         'offline' => '/var/www/html/aulamintic/mod/assign/feedback/offline/settings.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
       'assignment' => 
@@ -8319,6 +8472,7 @@ $cache = array (
       'workshopform' => 
       array (
 <<<<<<< HEAD
+<<<<<<< HEAD
         'numerrors' => '/var/www/html/mod/workshop/form/numerrors/settings.php',
       ),
       'workshopallocation' => 
@@ -8352,6 +8506,8 @@ $cache = array (
         'mb2builder' => '/var/www/html/local/mb2builder/settings.php',
         'reminders' => '/var/www/html/local/reminders/settings.php',
 =======
+=======
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
         'numerrors' => '/var/www/html/aulamintic/mod/workshop/form/numerrors/settings.php',
       ),
       'workshopallocation' => 
@@ -8384,6 +8540,9 @@ $cache = array (
       array (
         'mb2builder' => '/var/www/html/aulamintic/local/mb2builder/settings.php',
         'reminders' => '/var/www/html/aulamintic/local/reminders/settings.php',
+<<<<<<< HEAD
+>>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
+=======
 >>>>>>> be632d5d49fe680b437038bb0757d64a1322d1aa
       ),
     ),
