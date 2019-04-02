@@ -1,0 +1,1 @@
+define(["eldar/ADragEldar"],function(t){var e=t.extend({init:function(t,e,i){this._super.apply(this,arguments),console.log("Activity "+this.type+" not implemented")}});return e});
