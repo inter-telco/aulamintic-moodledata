@@ -1,0 +1,82 @@
+
+var NB_MAX_SIZE_SUSPEND_DATA=1000;var DEBUG_MODE=false;var FORBIDDEN_ELEMENTS=["cmi.score.scaled","cmi.progress_measure"];var FORBIDDEN_VALUES=["not attempted"];var ERROR_NO_ERROR=0;var ERROR_GENERAL_EXCEPTION=101;var ERROR_SERVER_BUSY=102;var ERROR_INVALID_ARGUMENT=201;var ERROR_CANNOT_HAVE_CHILDREN=202;var ERROR_NOT_IN_ARRAY=203;var ERROR_NOT_INITIALIZED=301;var ERROR_NOT_IMPLEMENTED_ERROR=401;var ERROR_INVALID_SETVALUE=402;var ERROR_READ_ONLY=403;var ERROR_WRITE_ONLY=404;var ERROR_INCORRECT_DATA_TYPE=405;var apiHandle=null;var API=null;var findAPITries=0;function initTracking()
+{var sCoreChildren=doLMSGetValue("cmi.core._children","");if(sCoreChildren.indexOf("student_id")>-1)trackingReadOnly["cmi.core.student_id"]=doLMSGetValue("cmi.core.student_id","");if(sCoreChildren.indexOf("student_name")>-1)trackingReadOnly["cmi.core.student_name"]=doLMSGetValue("cmi.core.student_name","");if(sCoreChildren.indexOf("lesson_location")>-1)tracking["cmi.core.lesson_location"]=doLMSGetValue("cmi.core.lesson_location","");if(sCoreChildren.indexOf("credit")>-1)trackingReadOnly["cmi.core.credit"]=doLMSGetValue("cmi.core.credit","credit");if(sCoreChildren.indexOf("lesson_status")>-1)tracking["cmi.core.lesson_status"]=doLMSGetValue("cmi.core.lesson_status","not attempted");if(sCoreChildren.indexOf("entry")>-1)trackingReadOnly["cmi.core.entry"]=doLMSGetValue("cmi.core.entry","");if(sCoreChildren.indexOf("lesson_mode")>-1)trackingReadOnly["cmi.core.lesson_mode"]=doLMSGetValue("cmi.core.lesson_mode","normal");tracking["cmi.suspend_data"]=doLMSGetValue("cmi.suspend_data","");trackingReadOnly["cmi.launch_data"]=doLMSGetValue("cmi.launch_data","");tracking["cmi.comments"]=doLMSGetValue("cmi.comments","");var sStudentPreferenceChildren=doLMSGetValue("cmi.student_preference._children","");if(sStudentPreferenceChildren.indexOf("audio")>-1)tracking["cmi.student_preference.audio"]=doLMSGetValue("cmi.student_preference.audio",0);if(sStudentPreferenceChildren.indexOf("language")>-1)tracking["cmi.student_preference.language"]=doLMSGetValue("cmi.student_preference.language","");if(sStudentPreferenceChildren.indexOf("speed")>-1)tracking["cmi.student_preference.speed"]=doLMSGetValue("cmi.student_preference.speed",0);if(sStudentPreferenceChildren.indexOf("text")>-1)tracking["cmi.student_preference.text"]=doLMSGetValue("cmi.student_preference.text",0);tracking["cmi.core.session_time"]="0000:00:00";tracking["cmi.core.exit"]="";return"1.2";}
+function findParamWindow(win){return win;}
+function doLMSInitialize(forceAPIDetection)
+{var api=getAPIHandle(forceAPIDetection);if(api==null)
+{return"false";}
+var result=api.LMSInitialize("");if(result.toString()!="true")
+{if(result.toString()=="false"){alert("Error 502: Unable to initialize the communication with a Learning Management System.\nRetry launching the learning unit and if the error persists contact your help desk.\nThe function LMSInitialize() returns false.");result="false";}
+else result=ErrorHandler();}
+else
+{result="1.2";}
+return result;}
+function doLMSFinish()
+{var api=getAPIHandle();if(api==null)
+{return"false";}
+else
+{var result=api.LMSFinish("");if(result.toString()!="true")
+{var err=ErrorHandler();}}
+return result.toString();}
+function doLMSGetValue(name)
+{var api=getAPIHandle();if(api==null)
+{return"";}
+else
+{var value=api.LMSGetValue(name);var errCode=api.LMSGetLastError().toString();if(errCode!=ERROR_NO_ERROR)
+{var errDescription=api.LMSGetErrorString(errCode);return"";}
+else
+{return value.toString();}}}
+function doLMSSetValue(name,value)
+{var api=getAPIHandle();if(api==null)
+{return;}
+var result="true";var arrayOfComponents=name.split(".");if(arrayOfComponents[1]!="interactions")
+{if(!isValueInArray(FORBIDDEN_ELEMENTS,name)&&!isValueInArray(FORBIDDEN_VALUES,value))
+{if(name=="cmi.suspend_data")
+{value=value.substring(0,4096);}
+result=api.LMSSetValue(name,value);}}
+else
+{var interaction_id=arrayOfComponents[2];var interaction_name=arrayOfComponents[3];var interactions_children=doLMSGetValue("cmi.interactions._children").split(",");if(isValueInArray(interactions_children,interaction_name))
+{result=api.LMSSetValue(name,value);}}
+if(result.toString()!="true")
+{result=ErrorHandler();}
+return;}
+function doLMSCommit()
+{var api=getAPIHandle();if(api==null)
+{return"false";}
+else
+{var result=api.LMSCommit("");if(result!="true")
+{var err=ErrorHandler();}}
+return result.toString();}
+function doLMSGetLastError()
+{var api=getAPIHandle();if(api==null)
+{return _GeneralError;}
+return api.LMSGetLastError().toString();}
+function doLMSGetErrorString(errorCode)
+{var api=getAPIHandle();if(api==null)
+{}
+return api.LMSGetErrorString(errorCode).toString();}
+function doLMSGetDiagnostic(errorCode)
+{var api=getAPIHandle();if(api==null)
+{}
+return api.LMSGetDiagnostic(errorCode).toString();}
+function ErrorHandler()
+{var api=getAPIHandle();if(api==null)
+{return;}
+var errCode=api.LMSGetLastError().toString();if(errCode!=ERROR_NO_ERROR)
+{var errDescription=api.LMSGetErrorString(errCode);if(DEBUG_MODE==true)
+{errDescription+="\n";errDescription+=api.LMSGetDiagnostic(null);}}
+return errCode;}
+function getAPIHandle(forceAPIDetection)
+{if(apiHandle==null)
+{apiHandle=getAPI(forceAPIDetection);}
+return apiHandle;}
+function findAPI(win)
+{while((win.API==null)&&(win.parent!=null)&&(win.parent!=win))
+{findAPITries++;if(findAPITries>7)
+{return null;}
+win=win.parent;}
+return win.API;}
+function getAPI(forceAPIDetection){theAPI=findAPI(window);if((theAPI==null)&&(window.opener!=null)&&(typeof(window.opener)!="undefined")){theAPI=findAPI(window.opener);}
+if((theAPI==null)&&(window.parent.opener!=null)&&(typeof(window.parent.opener)!="undefined")){theAPI=findAPI(window.parent.opener);if((theAPI==null)&&(window.parent.opener.opener!=null)&&(typeof(window.parent.opener.opener)!="undefined")){theAPI=findAPI(window.parent.opener.opener);}}
+if(theAPI==null){if(DEBUG_MODE)alert("Unable to find an API adapter");if((forceAPIDetection!==undefined)&&forceAPIDetection){alert("Error 501: Unable to find a Learning Management System.\nRetry launching the learning unit and if the error persists contact your help desk.\nThe function GetAPI() returns null.");}}
+return theAPI;}
