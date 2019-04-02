@@ -1,0 +1,102 @@
+(function($) {
+	$(function() {
+		// provide crossword entries in an array of objects like the following example
+		// Position refers to the numerical order of an entry. Each position can have 
+		// two entries: an across entry and a down entry
+		var puzzleData = [
+				{
+					clue: "1. Técnica de medición de la productividad que significa mejora contínua = ______.",
+					answer: "KAIZEN",
+					position: 0,
+					orientation: "across",
+					startx: 1,
+					starty: 10
+				},
+			 	{
+					clue: "2. Es la relación entre los resultados logrados y los recursos utilizados = _____________.",
+					answer: "PRODUCTIVIDAD",
+					position: 1,
+					orientation: "across",
+					startx: 1,
+					starty: 6
+				},
+			 	{
+					clue: "3. Es un sistema de autoinspección o inspección “a prueba de Errores”: ________.",
+					answer: "POKAJOKE",
+					position: 2,
+					orientation: "across",
+					startx: 1,
+					starty: 3
+				},
+				{
+					clue: "4. Eficacia es la relación  entre los __________  logrados vs. Las actividades planeadas.",
+					answer: "RESULTADOS",
+					position: 3,
+					orientation: "across",
+					startx: 7,
+					starty: 1
+				},
+				{
+					clue: "5. Eficacia + eficiencia es igual a: ___________ .",
+					answer: "EFECTIVIDAD",
+					position: 4,
+					orientation: "down",
+					startx: 8,
+					starty: 1
+				},
+					{
+					clue: "6. Uno de los objetivos de las 5S, el cual habla de “un lugar para cada cosa y cada cosa en su lugar”. Es: _______.",
+					answer: "ORDENAR",
+					position: 5,
+					orientation: "down",
+					startx: 15,
+					starty: 1
+				},
+				{
+					clue: "7. Nombre una de las 6M, la cual se refiere al personal de la empresa: __________",
+					answer: "MANODEOBRA",
+					position: 6,
+					orientation: "down",
+					startx: 12,
+					starty: 5
+				},
+					{
+					clue: "8. Uno de los objetivos de la 5´S, que habla de: “No limpiar más, evitar que se ensucie” es: ________.",
+					answer: "LIMPIEZA",
+					position: 7,
+					orientation: "down",
+					startx: 10,
+					starty: 5
+				},
+					{
+					clue: "9. Uno de los principios de la gestión de la productividad es la Orientación al _______. Escucharlo, satisfacer sus necesidades y requerimientos.",
+					answer: "CLIENTE",
+					position: 8,
+					orientation: "down",
+					startx: 6,
+					starty: 6
+				},
+					{
+					clue: "",
+					answer: "",
+					position: 9,
+					orientation: "down",
+					startx: 6,
+					starty: 6
+				},
+				
+			];
+	
+		$('#puzzle-wrapper').crossword(puzzleData);
+		// for(var i = 1; i <= 2; i++)
+		// {
+		// 	for(var c = 0; c < $("#" + $("ul")[i - 1].id + "> li").size(); c++)
+		// 	{
+		// 		var org = $("#" + $("ul")[i - 1].id + "> li")[c];
+		// 		var texto = org.innerHTML.split(". ")[1];
+		// 		org.innerHTML = (c + 1) + ". " + texto;
+		// 	}
+		// }
+	});
+	
+})(jQuery);
