@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script type="text/javascript" src="APIWrapper.js"></script>
+	<script>
+		var require = {
+			config: {
+				'lib/Config': {
+					scaleMode: 'EXACTFIT',
+					detectApi: '1',
+					isAICC: '0'
+				}
+			}
+		};
+	</script>
+	<script type="text/javascript" data-main="../_shared/grekhil" src="../_shared/require.js"></script>
+	<link rel="stylesheet" media="all" href="../_shared/medias/style.css"/>
+</head>
+<body id="grekhil-player">
+	<div id="container"></div>
+	<div class="loader"></div>
+</body>
+</html>

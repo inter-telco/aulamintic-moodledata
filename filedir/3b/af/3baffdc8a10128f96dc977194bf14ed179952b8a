@@ -1,0 +1,1 @@
+define(["ekhil/view/AEldar"],function(e){var i=e.extend({init:function(e,i,t){this._super.apply(this,arguments),console.log("Activity "+this.type+" not implemented")}});return i});
