@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course version="7.1.2.4">
+	<design flashplayer="10"><look><![CDATA[es_look_slim_productividad_y_operaciones]]></look></design>
+	<metadata build_version="1">	
+		<typical_learning_time><![CDATA[00:00:36]]></typical_learning_time>
+		<duration><![CDATA[00:01:40]]></duration>
+		<license><![CDATA[WL000000000000]]></license>
+		<signature><![CDATA[14839504956]]></signature>
+	<description><![CDATA[-]]></description><keywords><![CDATA[-]]></keywords></metadata>
+
+	<navigation reinit="0" exit_mode="suspend" history_mode="normal"/>
+
+	<root author_id="#201453181417">
+		<metadata>		
+			<title><![CDATA[]]></title>
+			<name><![CDATA[]]></name>
+			<keywords><![CDATA[]]></keywords>
+		</metadata>
+
+		<navigation disable_link="0" disable_index="0"/>
+
+		<links conditional="0" default_action="" default_param="">
+		</links>
+		<theme author_id="#2014531814171">
+			<metadata>			
+				<description><![CDATA[]]></description>
+			</metadata>
+			<navigation progress="1" add_progress="1"/>
+			<tracking masteryscore="0" masterytype="score" sub_page_nb="0" reinit="0" randomize_type="on_start" randomize="0" max_time="" score_mode="seen" binary="0" coef="1" add_coef="1"/>
+
+			<nodes>
+
+				 <!-- NODE 1 -->
+				<node id="1" author_id="#2018228736">
+					<metadata>					
+						<title><![CDATA[Certificación: Introducción a la productividad]]></title>
+						<name><![CDATA[]]></name>
+						<keywords><![CDATA[]]></keywords>
+					</metadata>
+
+					<navigation disable_link="1" disable_index="1"/>
+
+					<links conditional="0" default_action="" default_param="">
+					</links>
+					<page type="observe">
+						<metadata>						
+							<capacity><![CDATA[]]></capacity>
+							<competence><![CDATA[]]></competence>
+							<know_how><![CDATA[]]></know_how>
+						</metadata>
+						<navigation disable_back="0" disable_next="0" progress="1"/>
+						<tracking max_tries="0" coef="0" masteryscore="100" max_time="" track_score="1" track_lesson_location="1"/>
+						<screen id="page_conclusion" author_id="#20182287361">
+							<image author_id="#20182287362" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+								<design anim_start_alpha="20" anim_start_height="201.139" anim_start_width="308.403" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="1" anim_start_top="46.867" anim_start_left="55.091" anim_length="2" anim_delay="2" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="43.917" width="40.052" top="46.867" left="55.091" subtitle_element="0" caption="image1" locked="0"/>
+								<content file="@/IP.jpg" width="918" height="918"/>
+
+							</image>
+							<text id="texte_conclusion" author_id="#20182287363" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+								<design img_level_8="puce_2.png" img_level_7="puce_1.png" img_level_6="puce_2.png" img_level_5="puce_1.png" img_level_4="puce_2.png" img_level_3="puce_1.png" img_level_2="puce_2.png" img_level_1="puce_1.png" hyperlink_color_roll="#E78C07" hyperlink_color="#7AB01D" hyperlink_standard="0" selectable="0" scrollbar="0" anim_start_alpha="20" alpha="100" rotation="0" embed="1" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#545453" align="center" underline="0" italic="0" bold="0" fontsize="40" font="Arial Unicode MS" anim_start_top="17.38" anim_start_left="19.805" anim_length="0.9" anim_delay="0.4" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="39.694" width="110.37" top="17.38" left="19.805" subtitle_element="0" caption="conclusion_texto" locked="0"/>
+								<content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="24" color="#808080"><b>¡</b></font><font face="Trebuchet MS" size="24" color="#808080">Felicidades estimado empresario</font><font face="Trebuchet MS" size="24" color="#808080"><b>!</b></font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="24" color="#808080">Haz completado exitosamente el curso:</font></textformat><br/><textformat leftmargin="0"></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="28" color="#FF8000"><b> Introducción a la productividad </b></font></textformat></p></body></html>]]></content>
+							</text>
+							<text id="texte_retour" author_id="#20182287364" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+								<design img_level_8="puce_2.png" img_level_7="puce_1.png" img_level_6="puce_2.png" img_level_5="puce_1.png" img_level_4="puce_2.png" img_level_3="puce_1.png" img_level_2="puce_2.png" img_level_1="puce_1.png" hyperlink_color_roll="#E78C07" hyperlink_color="#7AB01D" hyperlink_standard="0" selectable="0" scrollbar="0" anim_start_alpha="20" alpha="100" rotation="0" embed="1" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#6D6E71" align="center" underline="0" italic="0" bold="0" fontsize="25" font="Arial Unicode MS" anim_start_top="91.179" anim_start_left="17.065" anim_length="3" anim_delay="3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="23.537" width="115.032" top="91.179" left="17.065" subtitle_element="0" caption="atras_texto" locked="0"/>
+								<content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="20" color="#808080">Ahora ya haces parte de la comunidad de empresarios certificados.</font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="21" color="#000000"><b>En instantes recibirás el certificado del curso vía correo electrónico.</b></font></textformat></p></body></html>]]></content>
+							</text>
+							<arrow id="trait_conclusion" author_id="#20182287365" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+								<design line_style="solid" alpha="100" transparent="0" bgcolor="#6D6E71" border_color="#6D6E71" border_width="2" arrow_width="2" arrow_height="2" anim_start_alpha="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" subtitle_element="0" caption="linea" locked="0">								
+									<point1 arrow="0" y="264.05" x="818.55"/>
+									<point2 arrow="0" y="264.05" x="341.4"/>
+
+								</design>
+							</arrow>
+							<text author_id="#20182287366" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+								<design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="10.633" width="89.689" top="0.284" left="53.656" subtitle_element="0" caption="titulo_pantalla" locked="0"/>
+								<content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Calibri" size="21" color="#FFFFFF"><b> Introducción a la productividad</b></font></textformat></p></body></html>]]></content>
+
+							</text>
+							<text author_id="#20182287367" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+								<design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="5.275" width="2.338" top="1.299" left="27.065" subtitle_element="0" caption="numero_nivel" locked="0"/>
+								<content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Verdana" size="19" color="#FFFFFF">1</font></textformat></p></body></html>]]></content>
+
+							</text>
+						</screen>
+					</page>
+				</node>
+				<!-- END NODE 1 -->
+
+			</nodes>
+		</theme>
+	</root>
+</course>
