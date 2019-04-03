@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src="../_shared/js/jquery.min.js"></script>
+	<script type="text/javascript" src="../_shared/js/modernizr.canvas.js"></script>
+	<script type="text/javascript" src="../_shared/js/swfobject.js"></script>
+	<script type="text/javascript">
+		(function () {
+			var mode = false, url = '';
+			if ((window.location.hash != '') && (/force/.test(window.location.hash))) {
+				mode = window.location.hash.split('=')[1];
+			}
+			if (!mode) {
+				mode = 'flash';
+
+				// Si flash n'est pas détecté et que le canvas n'est pas supporté, on laisse le mode flash pour pouvoir DL le plugin
+				if (swfobject.getFlashPlayerVersion().major === 0 && Modernizr.canvas) {
+					mode = 'html';
+				}
+			}
+			switch (mode) {
+				case 'flash':
+					url = 'default.htm';
+					break;
+				case 'html':
+					url = 'index.html';
+					break;
+			}
+
+			var params = window.location.href.split('?');
+
+			url += '?export=multi';
+
+			if (params[1] != undefined) {
+				url += "&" + params[1];
+			}
+
+			$(document).ready(function () {
+				$('#main-frame').remove();
+				if (url.indexOf('?') != -1) url += '&'
+				else url += '?'
+				url += 'width=' + $(window).width() + '&height=' + $(window).height();
+				var nIframe = $('<iframe id="main-frame" src="' + url + '" frameBorder="0" nwdisable scrolling="no" style="width:1px; min-width:100%;"></iframe>');
+				$('body').append(nIframe);
+			});
+		})();
+	</script>
+	<style type="text/css">
+		html, body {
+			margin: 0;
+			padding: 0;
+			height: 100%;
+			width: 100%;
+		}
+
+		iframe#main-frame {
+			position: absolute;
+			height: 100%;
+			width: 100%;
+			left: 0;
+			top: 0;
+			border: none;
+		}
+	</style>
+</head>
+<body>
+<iframe src="multi_launch_wait.html" id="main-frame" frameBorder="0" nwdisable></iframe>
+</body>
+</html>

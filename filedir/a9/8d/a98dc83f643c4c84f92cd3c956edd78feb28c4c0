@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course version="7.3.19.8f395cbd9">
+  <design flashplayer="10">
+    <look><![CDATA[es_look_comercio_electronicoINTRO]]></look>
+  </design>
+  <metadata build_version="14">
+    <title><![CDATA[12.1 Introduccion]]></title>
+    <description><![CDATA[-]]></description>
+    <keywords><![CDATA[-]]></keywords>
+    <typical_learning_time><![CDATA[00:08:39]]></typical_learning_time>
+    <duration><![CDATA[01:20:28]]></duration>
+    <license><![CDATA[WL000000000000]]></license>
+    <signature><![CDATA[15407406144]]></signature>
+  </metadata>
+  <navigation reinit="0" exit_mode="suspend" history_mode="normal"/>
+  <root author_id="#201453181417">
+    <metadata>
+      <title><![CDATA[]]></title>
+      <name><![CDATA[]]></name>
+      <keywords><![CDATA[]]></keywords>
+    </metadata>
+    <navigation disable_link="0" disable_index="0"/>
+    <links conditional="0" default_action="" default_param=""/>
+    <theme author_id="#2014531814171">
+      <metadata>
+        <description><![CDATA[]]></description>
+      </metadata>
+      <navigation progress="1" add_progress="1"/>
+      <tracking min_tries="0" masteryscore="0" masterytype="score" sub_page_nb="0" reinit="0" randomize_type="on_start" randomize="0" max_time="" score_mode="seen" binary="0" coef="1" add_coef="1"/>
+      <nodes>
+        <node id="1" author_id="#201816204350">
+          <metadata>
+            <title><![CDATA[]]></title>
+            <name><![CDATA[]]></name>
+            <keywords><![CDATA[]]></keywords>
+          </metadata>
+          <navigation disable_link="0" disable_index="0"/>
+          <links conditional="0" default_action="" default_param=""/>
+          <page type="observe">
+            <metadata>
+              <capacity><![CDATA[]]></capacity>
+              <competence><![CDATA[]]></competence>
+              <know_how><![CDATA[]]></know_how>
+            </metadata>
+            <navigation disable_back="0" disable_next="0" progress="1"/>
+            <tracking min_tries="0" max_tries="0" masteryscore="100" max_time="" coef="0" track_score="1" track_lesson_location="1"/>
+            <screen author_id="#2018162043501" id="page_intro">
+              
+                <text id="numero_nivel" author_id="#2018162043502" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="16.507" anim_start_left="43.89" anim_length="0.5" anim_delay="1.2" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="6.55" width="2.903" top="16.507" left="43.89" subtitle_element="0" caption="numero_nivel" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Verdana" size="21" color="#FFFFFF">4</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image id="img_diseno" author_id="#2018162043503" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="113.784" width="62.403" top="6.561" left="92.409" subtitle_element="0" caption="img_diseno" locked="0"/>
+                  <content file="@/monetizacion.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image id="img_titulo_curso" author_id="#2018162043504" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="20" anim_start_height="100" anim_start_width="490.65" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="34.279" anim_start_left="6.143" anim_length="0.7" anim_delay="1.4" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="21.834" width="63.721" top="34.279" left="6.143" subtitle_element="0" caption="img_titulo_curso" locked="0"/>
+                  <content file="@/Sistmemasdepagoselectronicos.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <text author_id="#2018162043505" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#7A428B" align="left" underline="0" italic="0" bold="1" fontsize="20" font="Trebuchet MS" anim_start_top="140.6" anim_start_left="57.5" anim_length="0.5" anim_delay="0.3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="0" height="7.162" width="38.961" top="58.1" left="12.331" subtitle_element="0" caption="subtitulo" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Trebuchet MS" size="20" color="#FFFFFF"><b>Intensidad horaria: 5 horas</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#2018162043506" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="7.771" width="4.864" top="58.221" left="6.825" subtitle_element="0" caption="image2" locked="0"/>
+                  <content file="@/re.png"><![CDATA[]]></content>
+                </image>
+              
+            </screen>
+          </page>
+        </node>
+        <node id="2" author_id="#2018162043507">
+          <metadata>
+            <title><![CDATA[1. ¿Dónde me encuentro?]]></title>
+            <name><![CDATA[]]></name>
+            <keywords><![CDATA[]]></keywords>
+          </metadata>
+          <navigation disable_link="0" disable_index="0"/>
+          <links conditional="0" default_action="" default_param=""/>
+          <page type="observe">
+            <metadata>
+              <capacity><![CDATA[]]></capacity>
+              <competence><![CDATA[]]></competence>
+              <know_how><![CDATA[]]></know_how>
+            </metadata>
+            <navigation disable_back="0" disable_next="0" progress="1"/>
+            <tracking min_tries="0" max_tries="0" masteryscore="100" max_time="" coef="0" track_score="1" track_lesson_location="1"/>
+            <screen author_id="#2018162043508" id="page_texte">
+              
+                <text id="titulo_pantalla" author_id="#2018162043509" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="10.628" width="76.507" top="0.284" left="53.656" subtitle_element="0" caption="titulo_pantalla" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Calibri" size="21" color="#FFFFFF"><b>Sistemas de pagos electrónicos</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text id="texto_nivel" author_id="#20181620435010" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="5.275" width="2.338" top="1.299" left="27.065" subtitle_element="0" caption="numero_nivel" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Verdana" size="19" color="#FFFFFF">4</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text id="titulo_contenido" author_id="#20181620435012" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#006BB1" align="left" underline="0" italic="0" bold="1" fontsize="23" font="Trebuchet MS" anim_start_top="109.7" anim_start_left="57.5" anim_length="0.5" anim_delay="0.3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="0" height="8.21" width="44.481" top="10.917" left="6.168" subtitle_element="0" caption="titulo" locked="0"/>
+                  <content format="txt"><![CDATA[¿Dónde me encuentro?]]></content>
+                </text>
+              
+              
+                <text id="subtitulo" author_id="#20181620435013" lang_sync="1" lang_sync_content="0" lang_sync_design="1" locked="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#7A428B" align="left" underline="0" italic="0" bold="1" fontsize="20" font="Trebuchet MS" anim_start_top="140.6" anim_start_left="57.5" anim_length="0.5" anim_delay="0.3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="0" height="7.162" width="31.169" top="19.782" left="6.156" subtitle_element="0" caption="subtitulo" locked="0"/>
+                  <content format="txt"><![CDATA[]]></content>
+                </text>
+              
+              
+                <image id="icono_importante" author_id="#20181620435014" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="100" anim_start_height="41.837" anim_start_width="32.75" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="14.694" anim_start_left="94.11" anim_length="0.5" anim_delay="1.2" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="14.699" width="6.844" top="11.987" left="93.019" subtitle_element="0" caption="icono_importante" locked="0"/>
+                  <content file="img-importante.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <consigne id="instruccion" author_id="#20181620435015" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#3C3C3B" align="left" underline="0" italic="1" bold="0" fontsize="14" font="Verdana" anim_start_top="16.67" anim_start_left="99.591" anim_length="0.5" anim_delay="1.5" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="9.454" width="49.786" top="16.67" left="99.591" subtitle_element="0" caption="instruccion" locked="0"/>
+                  <content format="txt"><![CDATA[Luego de ver este contenido, haz clic en &quot;Adelante&quot; para continuar. ]]></content>
+                </consigne>
+              
+              
+                <image id="linea_instruccion" author_id="#20181620435016" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="100" anim_start_height="33.025" anim_start_width="4.85" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="22.325" anim_start_left="92.409" anim_length="0.5" anim_delay="1.5" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="7.211" width="57.052" top="22.325" left="92.409" subtitle_element="0" caption="linea_instruccion" locked="0"/>
+                  <content file="LN_instruccion.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#20181620435017" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="1" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="81.908" width="152.305" top="27.151" left="0.448" subtitle_element="0" caption="image4" locked="0"/>
+                  <content file="@/guia-de-introduccion-sistemas-de-pagos-electronicos.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <text author_id="#20181620435018" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="7.915" width="31.688" top="35.6" left="5.974" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="15" color="#FFFFFF"><b>Área 1: Comercio Electrónico</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435019" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="15.197" width="31.688" top="49.421" left="5.974" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="15" color="#FFFFFF"><b>Área 2: Productividad y Operaciones</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435020" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.439" width="31.688" top="67.98" left="5.974" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="15" color="#FFFFFF"><b>Área 3: Administración</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435021" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="17.751" width="29.266" top="81.867" left="7.013" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="15" color="#FFFFFF"><b>Área 4: Planeación estratégica y toma de decisiones</b></font><font face="Arial" size="14" color="#FFFFFF">&nbsp;</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435022" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="9.083" width="51.338" top="34.083" left="42.948" subtitle_element="0" caption="text4" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Trebuchet MS" size="17" color="#004080"><b>Eje Temático Actual: eCommerce</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435023" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="9.083" width="51.338" top="56.987" left="42.948" subtitle_element="0" caption="text4" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Trebuchet MS" size="17" color="#004080"><b>Marketing</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435024" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="9.083" width="51.338" top="79.847" left="42.948" subtitle_element="0" caption="text4" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Trebuchet MS" size="17" color="#FFFFFF"><b>Monetización Virtual</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435025" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="17.227" width="20" top="41.146" left="43.63" subtitle_element="0" caption="text5" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Nivel 1:</b></font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Introducción al comercio electrónico.</b></font></textformat></p><p align="left"><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435026" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="17.227" width="20" top="40.688" left="69.604" subtitle_element="0" caption="text5" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Nivel 2:</b></font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Funcionamiento del comercio electrónico</b></font></textformat><br/><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435027" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="17.227" width="20" top="41.059" left="97.052" subtitle_element="0" caption="text5" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Nivel 3:</b></font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Tienda virtual y modalidades de pago</b></font></textformat><br/><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435028" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="17.227" width="20" top="40.852" left="123.37" subtitle_element="0" caption="text5" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Nivel 4:</b></font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Logística y posventa en el comercio electrónico</b></font></textformat><br/><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435029" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="17.227" width="20" top="64.061" left="43.286" subtitle_element="0" caption="text5" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Nivel 1:</b></font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Introducción al marketing digital</b></font></textformat><br/><textformat leftmargin="0"></textformat></p><p align="left"><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435030" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="17.227" width="21.383" top="63.373" left="69.481" subtitle_element="0" caption="text5" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Nivel 2:</b></font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Email marketing y mensajería móvil e instantánea</b></font></textformat><br/><textformat leftmargin="0"></textformat><br/><textformat leftmargin="0"></textformat></p><p align="left"><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435031" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="17.227" width="20" top="63.319" left="97.182" subtitle_element="0" caption="text5" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Nivel 3:</b></font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Marketing en redes sociales y analítica web</b></font></textformat><br/><textformat leftmargin="0"></textformat></p><p align="left"><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435032" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="17.227" width="22.253" top="62.336" left="122.682" subtitle_element="0" caption="text5" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Nivel 4:</b></font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Herramientas de gestión de relacionamiento con el cliente</b></font></textformat><br/><textformat leftmargin="0"></textformat><br/><textformat leftmargin="0"></textformat></p><p align="left"><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435033" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="17.227" width="22.253" top="86.605" left="42.338" subtitle_element="0" caption="text5" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#FFFFFF"><b>Nivel 1:</b></font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#FFFFFF"><b>Revolución de los modelos de negocio en la era digital</b></font></textformat><br/><textformat leftmargin="0"></textformat><br/><textformat leftmargin="0"></textformat></p><p align="left"><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435034" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="17.227" width="20" top="86.758" left="70.26" subtitle_element="0" caption="text5" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#FFFFFF"><b>Nivel 2:</b></font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#FFFFFF"><b>Bancarización y ciberseguridad</b></font></textformat><br/><textformat leftmargin="0"></textformat><br/><textformat leftmargin="0"></textformat></p><p align="left"><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435035" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="17.227" width="20" top="86.539" left="97.312" subtitle_element="0" caption="text5" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#FFFFFF"><b>Nivel 3:</b></font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#FFFFFF"><b>Comercio B2C y pasarela de pagos</b></font></textformat><br/><textformat leftmargin="0"></textformat><br/><textformat leftmargin="0"></textformat></p><p align="left"><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435036" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="17.227" width="20.351" top="86.31" left="123.799" subtitle_element="0" caption="text5" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Nivel 4:</b></font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="11" color="#000000"><b>Sistemas de pagos electrónicos</b></font></textformat><br/><textformat leftmargin="0"></b></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#2018221243283" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.04" width="9.565" top="111.441" left="8.903" subtitle_element="0" caption="" locked="0"/>
+                  <content file="ICN-pagina.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <text author_id="#2018221243284" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="5.275" width="7.747" top="112.86" left="9.792" subtitle_element="0" caption="texto_paginacion" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Verdana" size="16" color="#FFFFFF">1/6</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#2018221243285" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="4.596" width="5.682" top="113.079" left="2.961" subtitle_element="0" caption="" locked="0"/>
+                  <content file="titulo-pagina.png"><![CDATA[]]></content>
+                </image>
+              
+            </screen>
+          </page>
+        </node>
+        <node id="3" author_id="#20181620435037">
+          <metadata>
+            <title><![CDATA[2. ¿Qué encontrarás en el curso?]]></title>
+            <name><![CDATA[]]></name>
+            <keywords><![CDATA[]]></keywords>
+          </metadata>
+          <navigation disable_link="0" disable_index="0"/>
+          <links conditional="0" default_action="" default_param=""/>
+          <page type="observe">
+            <metadata>
+              <capacity><![CDATA[]]></capacity>
+              <competence><![CDATA[]]></competence>
+              <know_how><![CDATA[]]></know_how>
+            </metadata>
+            <navigation disable_back="0" disable_next="0" progress="1"/>
+            <tracking min_tries="0" max_tries="0" masteryscore="100" max_time="" coef="0" track_score="1" track_lesson_location="1"/>
+            <screen author_id="#20181620435038" id="page_texte">
+              
+                <text id="titulo_contenido" author_id="#20181620435040" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#006BB1" align="left" underline="0" italic="0" bold="1" fontsize="23" font="Trebuchet MS" anim_start_top="109.7" anim_start_left="57.5" anim_length="0.5" anim_delay="0.3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="0" height="8.21" width="59.286" top="10.906" left="6.162" subtitle_element="0" caption="titulo" locked="0"/>
+                  <content format="txt"><![CDATA[¿Qué encontrarás en el curso?]]></content>
+                </text>
+              
+              
+                <text id="subtitulo" author_id="#20181620435041" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#7A428B" align="left" underline="0" italic="0" bold="1" fontsize="20" font="Trebuchet MS" anim_start_top="140.6" anim_start_left="57.5" anim_length="0.5" anim_delay="0.3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="0" height="7.162" width="60.26" top="19.782" left="6.156" subtitle_element="0" caption="subtitulo" locked="0"/>
+                  <content format="txt"><![CDATA[Bienvenido al cuarto curso de monetización virtual]]></content>
+                </text>
+              
+              
+                <image id="icono_importante" author_id="#20181620435042" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design locked="1"/>
+                  <content file="img-importante.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <consigne id="instruccion" author_id="#20181620435043" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#3C3C3B" align="left" underline="0" italic="1" bold="0" fontsize="14" font="Verdana" anim_start_top="14.782" anim_start_left="99.597" anim_length="0.5" anim_delay="1.5" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="9.76" width="49.786" top="14.782" left="99.597" subtitle_element="0" caption="instruccion" locked="0"/>
+                  <content format="txt"><![CDATA[Presiona los botones de este menú, para desplegar la información.]]></content>
+                </consigne>
+              
+              
+                <image id="linea_instruccion" author_id="#20181620435044" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design locked="1"/>
+                  <content file="LN_instruccion.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#20181620435045" lang_sync="0" lang_sync_content="0" lang_sync_design="0" locked="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="1" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="81.33" width="152.831" top="27.751" left="0.273" subtitle_element="0" caption="image3" locked="0"/>
+                  <content file="@/bloque.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <button author_id="#20181620435046" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="53.766" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="4" mode="button" event="undefined" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <button author_id="#20181620435047" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="68.341" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="5" mode="button" event="undefined" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <button author_id="#20181620435048" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="83.766" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="6" mode="button" event="undefined" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <text author_id="#20181620435049" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="55.993" left="6.773" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>2</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435050" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="70.535" left="6.812" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>3</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435051" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="86.245" left="6.63" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>4</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435052" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="67.741" width="74.325" top="34.924" left="70.39" subtitle_element="0" caption="text4" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="left"><textformat leftmargin="0"><font face="Trebuchet MS" size="17" color="#303030">Hola, vas a desarrollar la última parte de estos cursos sobre monetización virtual. </font></textformat><br/><textformat leftmargin="0"></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="17" color="#303030">Vamos a comenzar el cuarto nivel y en esta oportunidad aprenderemos sobre los sistemas de pagos.</font></textformat><br/><textformat leftmargin="0"></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="17" color="#303030"><b>¿Qué encontrarás en el curso?</b></font></textformat><br/><textformat leftmargin="0"></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="17" color="#303030">En este curso conocerás la manera de cómo implementar una pasarela de pagos en una tienda virtual, teniendo en cuenta la comercialización y las formas de pago existentes en Colombia.</font></textformat><br/><textformat leftmargin="0"></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="17" color="#303030">Así mismo tendrás la información necesaria alrededor de los temas de seguridad en el comercio electrónico acorde a la legislación colombiana. </font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <arrow author_id="#20181620435053" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design line_style="solid" alpha="100" transparent="0" bgcolor="#330066" border_color="#330066" border_width="3" arrow_width="10" arrow_height="10" anim_start_alpha="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" subtitle_element="0" caption="arrow1" locked="0">
+                    <point1 arrow="0" y="264.7" x="545.25"/>
+                    <point2 arrow="0" y="462.05" x="545.25"/>
+                  </design>
+                </arrow>
+              
+              
+                <button author_id="#20181620435054" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="37.762" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="3" mode="button" event="undefined" key="0" time="0"/>
+                    <action action="show_so" param="curso" mode="event" event="" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <text author_id="#20181620435055" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="40.415" left="6.682" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>1</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#20181620435056" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="5.275" width="2.338" top="1.299" left="27.065" subtitle_element="0" caption="numero_nivel" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Verdana" size="19" color="#FFFFFF">4</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#201816205323" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="10.628" width="76.507" top="0.284" left="53.656" subtitle_element="0" caption="titulo_pantalla" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Calibri" size="21" color="#FFFFFF"><b>Sistemas de pagos electrónicos</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#20181621547" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="20" anim_start_height="229.385" anim_start_width="385.647" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="43.821" anim_start_left="19.396" anim_length="0.9" anim_delay="0.4" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="50.084" width="50.084" top="43.821" left="19.396" subtitle_element="0" caption="image4" locked="0"/>
+                  <content file="@/12.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#2018221243286" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.04" width="9.565" top="111.441" left="8.903" subtitle_element="0" caption="" locked="0"/>
+                  <content file="ICN-pagina.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <text author_id="#2018221243287" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="5.275" width="7.747" top="112.86" left="9.792" subtitle_element="0" caption="texto_paginacion" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Verdana" size="16" color="#FFFFFF">2/6</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#2018221243288" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="4.596" width="5.682" top="113.079" left="2.961" subtitle_element="0" caption="" locked="0"/>
+                  <content file="titulo-pagina.png"><![CDATA[]]></content>
+                </image>
+              
+            </screen>
+          </page>
+        </node>
+        <node id="4" author_id="#20181620435063">
+          <metadata>
+            <title><![CDATA[3. ¿Qué competencia vas a desarrollar?]]></title>
+            <name><![CDATA[]]></name>
+            <keywords><![CDATA[]]></keywords>
+          </metadata>
+          <navigation disable_link="0" disable_index="0"/>
+          <links conditional="0" default_action="" default_param=""/>
+          <page type="observe">
+            <metadata>
+              <capacity><![CDATA[]]></capacity>
+              <competence><![CDATA[]]></competence>
+              <know_how><![CDATA[]]></know_how>
+            </metadata>
+            <navigation disable_back="0" disable_next="0" progress="1"/>
+            <tracking min_tries="0" max_tries="0" masteryscore="100" max_time="" coef="0" track_score="1" track_lesson_location="1"/>
+            <screen author_id="#20181620435064" id="page_texte">
+              
+                <text id="titulo_contenido" author_id="#20181620435066" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#006BB1" align="left" underline="0" italic="0" bold="1" fontsize="23" font="Trebuchet MS" anim_start_top="109.7" anim_start_left="57.5" anim_length="0.5" anim_delay="0.3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="0" height="8.21" width="64.968" top="10.895" left="6.156" subtitle_element="0" caption="titulo" locked="0"/>
+                  <content format="txt"><![CDATA[¿Qué competencias vas a desarrollar?]]></content>
+                </text>
+              
+              
+                <text id="subtitulo" author_id="#20181620435067" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#7A428B" align="left" underline="0" italic="0" bold="1" fontsize="20" font="Trebuchet MS" anim_start_top="140.6" anim_start_left="57.5" anim_length="0.5" anim_delay="0.3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="0" height="12.969" width="77.682" top="18.035" left="6.156" subtitle_element="0" caption="subtitulo" locked="0"/>
+                  <content format="txt"><![CDATA[Pasarela de pagos en tu tienda virtual]]></content>
+                </text>
+              
+              
+                <image id="icono_importante" author_id="#20181620435068" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design locked="1"/>
+                  <content file="img-importante.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <consigne id="instruccion" author_id="#20181620435069" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#3C3C3B" align="left" underline="0" italic="1" bold="0" fontsize="14" font="Verdana" anim_start_top="14.782" anim_start_left="99.597" anim_length="0.5" anim_delay="1.5" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="9.76" width="49.786" top="14.782" left="99.597" subtitle_element="0" caption="instruccion" locked="0"/>
+                  <content format="txt"><![CDATA[Presiona los botones de este menú, para desplegar la información.]]></content>
+                </consigne>
+              
+              
+                <image id="linea_instruccion" author_id="#20181620435070" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design locked="1"/>
+                  <content file="LN_instruccion.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#20181620435071" lang_sync="0" lang_sync_content="0" lang_sync_design="0" locked="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="1" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="81.33" width="152.831" top="27.751" left="0.273" subtitle_element="0" caption="image3" locked="0"/>
+                  <content file="@/bloque.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <text author_id="#20181620435072" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="60.066" anim_start_left="89.61" anim_length="0.9" anim_delay="0.4" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="32.02" width="51.558" top="60.066" left="89.61" subtitle_element="0" caption="text4" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="left"><textformat leftmargin="0"><font face="Trebuchet MS" size="17" color="#303030">Implementarás una pasarela de pagos en tu tienda virtual, la cual te  permitirá  comercializar tus productos y servicios; ofreciéndole a tus clientes diversas formas de pago; acordes con los parámetros de seguridad de ventas por Internet.</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <arrow author_id="#20181620435073" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design line_style="solid" alpha="100" transparent="0" bgcolor="#330066" border_color="#330066" border_width="3" arrow_width="10" arrow_height="10" anim_start_alpha="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" subtitle_element="0" caption="arrow1" locked="0">
+                    <point1 arrow="0" y="265.75" x="644.2"/>
+                    <point2 arrow="0" y="463.1" x="644.2"/>
+                  </design>
+                </arrow>
+              
+              
+                <text author_id="#20181620435074" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="5.275" width="2.338" top="1.299" left="27.065" subtitle_element="0" caption="numero_nivel" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Verdana" size="19" color="#FFFFFF">4</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#20181620435075" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="19.903" width="19.325" top="40.251" left="83.864" subtitle_element="0" caption="image4" locked="0"/>
+                  <content file="@/IMG-logistica.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <text author_id="#20181621631" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="10.628" width="76.507" top="0.284" left="53.656" subtitle_element="0" caption="titulo_pantalla" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Calibri" size="21" color="#FFFFFF"><b>Sistemas de pagos electrónicos</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#201816213058" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="70" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="61.429" width="61.429" top="36.824" left="23.091" subtitle_element="0" caption="image5" locked="0"/>
+                  <content file="@/13.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#201816213346" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="100" anim_start_height="28.194" anim_start_width="47.4" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="48.429" anim_start_left="41.273" anim_length="0.3" anim_delay="1" anim_autostart="1" anim_easemode="easeOut" anim_easing="Back" anim="1" height="17.702" width="17.701" top="40.895" left="36.364" subtitle_element="0" caption="image6" locked="0"/>
+                  <content file="@/14.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#201816213551" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="100" anim_start_height="34.797" anim_start_width="58.498" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="71.081" anim_start_left="36.123" anim_length="0.3" anim_delay="1.3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Back" anim="1" height="17.845" width="17.844" top="65.262" left="31.357" subtitle_element="0" caption="image6" locked="0"/>
+                  <content file="@/15.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#201816213601" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="100" anim_start_height="28.224" anim_start_width="47.448" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="86.376" anim_start_left="50.649" anim_length="0.3" anim_delay="1.6" anim_autostart="1" anim_easemode="easeOut" anim_easing="Back" anim="1" height="15.546" width="15.545" top="80.513" left="45.747" subtitle_element="0" caption="image6" locked="0"/>
+                  <content file="@/b.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#2018162136551" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="100" anim_start_height="27.54" anim_start_width="46.298" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="44.159" anim_start_left="57.624" anim_length="0.3" anim_delay="1.9" anim_autostart="1" anim_easemode="easeOut" anim_easing="Back" anim="1" height="14.241" width="14.24" top="42.686" left="54.448" subtitle_element="0" caption="image6" locked="0"/>
+                  <content file="@/17.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#2018162137271" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="100" anim_start_height="28.878" anim_start_width="48.548" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="66.594" anim_start_left="63.636" anim_length="0.3" anim_delay="2.3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Back" anim="1" height="25.209" width="25.208" top="60.295" left="54.292" subtitle_element="0" caption="image6" locked="0"/>
+                  <content file="@/18.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <button author_id="#201813154654" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="53.766" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="4" mode="button" event="undefined" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <button author_id="#2018131546541" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="68.341" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="5" mode="button" event="undefined" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <button author_id="#2018131546542" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="83.766" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="6" mode="button" event="undefined" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <text author_id="#2018131546543" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="55.993" left="6.773" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>2</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#2018131546544" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="70.535" left="6.812" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>3</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#2018131546545" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="86.245" left="6.63" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>4</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <button author_id="#2018131546546" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="37.762" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="3" mode="button" event="undefined" key="0" time="0"/>
+                    <action action="show_so" param="curso" mode="event" event="" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <text author_id="#2018131546547" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="40.415" left="6.682" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>1</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#2018221243289" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.04" width="9.565" top="111.441" left="8.903" subtitle_element="0" caption="" locked="0"/>
+                  <content file="ICN-pagina.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <text author_id="#20182212432810" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="5.275" width="7.747" top="112.86" left="9.792" subtitle_element="0" caption="texto_paginacion" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Verdana" size="16" color="#FFFFFF">3/6</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#20182212432811" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="4.596" width="5.682" top="113.079" left="2.961" subtitle_element="0" caption="" locked="0"/>
+                  <content file="titulo-pagina.png"><![CDATA[]]></content>
+                </image>
+              
+            </screen>
+          </page>
+        </node>
+        <node id="5" author_id="#20181620435086">
+          <metadata>
+            <title><![CDATA[4. ¿Qué vas a aprender?]]></title>
+            <name><![CDATA[]]></name>
+            <keywords><![CDATA[]]></keywords>
+          </metadata>
+          <navigation disable_link="0" disable_index="0"/>
+          <links conditional="0" default_action="" default_param=""/>
+          <page type="observe">
+            <metadata>
+              <capacity><![CDATA[]]></capacity>
+              <competence><![CDATA[]]></competence>
+              <know_how><![CDATA[]]></know_how>
+            </metadata>
+            <navigation disable_back="0" disable_next="0" progress="1"/>
+            <tracking min_tries="0" max_tries="0" masteryscore="100" max_time="" coef="0" track_score="1" track_lesson_location="1"/>
+            <screen author_id="#20181620435087" id="page_texte">
+              
+                <text id="texto_nivel" author_id="#20181620435088" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="5.275" width="2.338" top="1.299" left="27.065" subtitle_element="0" caption="numero_nivel" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Verdana" size="19" color="#FFFFFF">4</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text id="titulo_contenido" author_id="#20181620435090" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#006BB1" align="left" underline="0" italic="0" bold="1" fontsize="23" font="Trebuchet MS" anim_start_top="109.7" anim_start_left="57.5" anim_length="0.5" anim_delay="0.3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="0" height="8.21" width="44.481" top="10.917" left="6.168" subtitle_element="0" caption="titulo" locked="0"/>
+                  <content format="txt"><![CDATA[¿Qué vas a aprender?]]></content>
+                </text>
+              
+              
+                <text id="subtitulo" author_id="#20181620435091" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#7A428B" align="left" underline="0" italic="0" bold="1" fontsize="20" font="Trebuchet MS" anim_start_top="140.6" anim_start_left="57.5" anim_length="0.5" anim_delay="0.3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="0" height="7.162" width="60.26" top="19.782" left="6.156" subtitle_element="0" caption="subtitulo" locked="0"/>
+                  <content format="txt"><![CDATA[]]></content>
+                </text>
+              
+              
+                <image id="icono_importante" author_id="#20181620435092" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design locked="1"/>
+                  <content file="img-importante.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <consigne id="instruccion" author_id="#20181620435093" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#3C3C3B" align="left" underline="0" italic="1" bold="0" fontsize="14" font="Verdana" anim_start_top="14.782" anim_start_left="99.597" anim_length="0.5" anim_delay="1.5" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="9.76" width="49.786" top="14.782" left="99.597" subtitle_element="0" caption="instruccion" locked="0"/>
+                  <content format="txt"><![CDATA[Presiona los botones de este menú, para desplegar la información.]]></content>
+                </consigne>
+              
+              
+                <image id="linea_instruccion" author_id="#20181620435094" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design locked="1"/>
+                  <content file="LN_instruccion.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#20181620435095" lang_sync="0" lang_sync_content="0" lang_sync_design="0" locked="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="1" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="81.33" width="152.831" top="27.751" left="0.273" subtitle_element="0" caption="image3" locked="0"/>
+                  <content file="@/bloque.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <rectangle author_id="#201816204350105" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design rounded="1" ray="9" anim_start_alpha="70" anim_start_height="11.688" anim_start_width="216.453" vflip="0" hflip="0" rotation="0" alpha="70" transparent="0" bgcolor="#666666" border="0" border_color="#333333" border_width="1" anim_start_top="54.574" anim_start_left="24.675" anim_length="0.9" anim_delay="0.4" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="30.543" width="28.111" top="54.574" left="24.675" subtitle_element="0" caption="rectangle1" locked="0"/>
+                </rectangle>
+              
+              
+                <ellipse author_id="#201816204350106" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" vflip="0" hflip="0" rotation="0" alpha="100" transparent="0" bgcolor="#02BBEA" border="1" border_color="#E0E0E0" border_width="4" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="25.109" width="14.935" top="36.157" left="31.257" subtitle_element="0" caption="ellipse1" locked="0"/>
+                </ellipse>
+              
+              
+                <text author_id="#201816204350107" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="352.101" anim_start_left="208.775" anim_length="0.9" anim_delay="0.4" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="0" height="16.354" width="28.123" top="65.961" left="24.672" subtitle_element="0" caption="text4" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="17" color="#FFFFFF">Implementación de una pasarela de pagos en una tienda virtual. </font></textformat><br/><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#201816204350108" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="20" anim_start_height="68.613" anim_start_width="115.354" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="40.731" anim_start_left="31.182" anim_length="0.9" anim_delay="0.4" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="14.981" width="14.981" top="40.731" left="31.182" subtitle_element="0" caption="image4" locked="0"/>
+                  <content file="@/19.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <rectangle author_id="#201816204350109" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design rounded="1" ray="9" anim_start_alpha="70" anim_start_height="14.038" anim_start_width="207.003" vflip="0" hflip="0" rotation="0" alpha="70" transparent="0" bgcolor="#666666" border="0" border_color="#333333" border_width="1" anim_start_top="54.585" anim_start_left="55.37" anim_length="0.9" anim_delay="0.8" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="31.056" width="26.884" top="54.585" left="55.37" subtitle_element="0" caption="rectangle1" locked="0"/>
+                </rectangle>
+              
+              
+                <ellipse author_id="#201816204350110" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" vflip="0" hflip="0" rotation="0" alpha="100" transparent="0" bgcolor="#02BBEA" border="1" border_color="#E0E0E0" border_width="4" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="25.109" width="14.935" top="36.157" left="61.688" subtitle_element="0" caption="ellipse1" locked="0"/>
+                </ellipse>
+              
+              
+                <text author_id="#201816204350111" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="357.95" anim_start_left="460.5" anim_length="0.9" anim_delay="0.4" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="0" height="16.354" width="25.071" top="65.95" left="56.276" subtitle_element="0" caption="text4" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="17" color="#FFFFFF">Comprenderás el funcionamiento del botón de pago PSE.</font></textformat><br/><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#201816204350112" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="100" anim_start_height="59.545" anim_start_width="100.108" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="42.325" anim_start_left="62.708" anim_length="0.9" anim_delay="0.4" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="13.001" width="13.001" top="42.325" left="62.708" subtitle_element="0" caption="image4" locked="0"/>
+                  <content file="@/20.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <rectangle author_id="#201816204350113" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design rounded="1" ray="9" anim_start_alpha="70" anim_start_height="12.888" anim_start_width="209.403" vflip="0" hflip="0" rotation="0" alpha="70" transparent="0" bgcolor="#666666" border="0" border_color="#333333" border_width="1" anim_start_top="54.585" anim_start_left="85.175" anim_length="0.9" anim_delay="1.2" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="31.329" width="27.195" top="54.585" left="85.169" subtitle_element="0" caption="rectangle1" locked="0"/>
+                </rectangle>
+              
+              
+                <ellipse author_id="#201816204350114" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" vflip="0" hflip="0" rotation="0" alpha="100" transparent="0" bgcolor="#02BBEA" border="1" border_color="#E0E0E0" border_width="4" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="25.109" width="14.935" top="36.124" left="90.909" subtitle_element="0" caption="ellipse1" locked="0"/>
+                </ellipse>
+              
+              
+                <text author_id="#201816204350115" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="325.102" anim_start_left="699.997" anim_length="0.9" anim_delay="0.4" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="0" height="16.441" width="25.831" top="65.666" left="85.877" subtitle_element="0" caption="text4" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="17" color="#FFFFFF">Formas de pago por internet (dirigido al consumidor).</font></textformat><br/><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#201816204350116" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="100" anim_start_height="69.327" anim_start_width="116.555" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="40.753" anim_start_left="91.5" anim_length="0.9" anim_delay="0.4" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="15.137" width="15.137" top="40.753" left="91.5" subtitle_element="0" caption="image4" locked="0"/>
+                  <content file="@/22.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <rectangle author_id="#201816204350117" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design rounded="1" ray="9" anim_start_alpha="70" anim_start_height="15.238" anim_start_width="234.103" vflip="0" hflip="0" rotation="0" alpha="70" transparent="0" bgcolor="#666666" border="0" border_color="#333333" border_width="1" anim_start_top="54.585" anim_start_left="115.325" anim_length="0.9" anim_delay="1.6" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="31.46" width="30.403" top="54.574" left="115.325" subtitle_element="0" caption="rectangle1" locked="0"/>
+                </rectangle>
+              
+              
+                <ellipse author_id="#201816204350118" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" vflip="0" hflip="0" rotation="0" alpha="100" transparent="0" bgcolor="#02BBEA" border="1" border_color="#E0E0E0" border_width="4" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="25.109" width="14.935" top="36.889" left="123.059" subtitle_element="0" caption="ellipse1" locked="0"/>
+                </ellipse>
+              
+              
+                <text author_id="#201816204350119" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="325.102" anim_start_left="699.997" anim_length="0.9" anim_delay="0.4" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="0" height="12.795" width="28.123" top="66.812" left="116.636" subtitle_element="0" caption="text4" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="17" color="#FFFFFF">Seguridad en el comercio electrónico.</font></textformat><br/><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#201816204350120" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="100" anim_start_height="70.042" anim_start_width="117.756" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="41.943" anim_start_left="123.097" anim_length="0.9" anim_delay="0.4" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="15.293" width="15.293" top="41.943" left="123.097" subtitle_element="0" caption="image4" locked="0"/>
+                  <content file="@/21.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <text author_id="#201816213923" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="10.628" width="76.507" top="0.284" left="53.656" subtitle_element="0" caption="titulo_pantalla" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Calibri" size="21" color="#FFFFFF"><b>Sistemas de pagos electrónicos</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <button author_id="#20181315472" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="53.766" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="4" mode="button" event="undefined" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <button author_id="#201813154721" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="68.341" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="5" mode="button" event="undefined" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <button author_id="#201813154722" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="83.766" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="6" mode="button" event="undefined" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <text author_id="#201813154723" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="55.993" left="6.773" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>2</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#201813154724" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="70.535" left="6.812" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>3</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#201813154725" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="86.245" left="6.63" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>4</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <button author_id="#201813154726" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="37.762" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="3" mode="button" event="undefined" key="0" time="0"/>
+                    <action action="show_so" param="curso" mode="event" event="" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <text author_id="#201813154727" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="40.415" left="6.682" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>1</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#20182212432812" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.04" width="9.565" top="111.441" left="8.903" subtitle_element="0" caption="" locked="0"/>
+                  <content file="ICN-pagina.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <text author_id="#20182212432813" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="5.275" width="7.747" top="112.86" left="9.792" subtitle_element="0" caption="texto_paginacion" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Verdana" size="16" color="#FFFFFF">4/6</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#20182212432814" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="4.596" width="5.682" top="113.079" left="2.961" subtitle_element="0" caption="" locked="0"/>
+                  <content file="titulo-pagina.png"><![CDATA[]]></content>
+                </image>
+              
+            </screen>
+          </page>
+        </node>
+        <node id="6" author_id="#201816204350121">
+          <metadata>
+            <title><![CDATA[5. ¿Qué encontrarás en el curso?]]></title>
+            <name><![CDATA[]]></name>
+            <keywords><![CDATA[]]></keywords>
+          </metadata>
+          <navigation disable_link="0" disable_index="0"/>
+          <links conditional="0" default_action="" default_param=""/>
+          <page type="observe">
+            <metadata>
+              <capacity><![CDATA[]]></capacity>
+              <competence><![CDATA[]]></competence>
+              <know_how><![CDATA[]]></know_how>
+            </metadata>
+            <navigation disable_back="0" disable_next="0" progress="1"/>
+            <tracking min_tries="0" max_tries="0" masteryscore="100" max_time="" coef="0" track_score="1" track_lesson_location="1"/>
+            <screen author_id="#201816204350122" id="page_texte">
+              
+                <text id="texto_nivel" author_id="#201816204350123" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="5.275" width="2.338" top="1.299" left="27.065" subtitle_element="0" caption="numero_nivel" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Verdana" size="19" color="#FFFFFF">4</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text id="titulo_contenido" author_id="#201816204350125" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#006BB1" align="left" underline="0" italic="0" bold="1" fontsize="23" font="Trebuchet MS" anim_start_top="109.7" anim_start_left="57.5" anim_length="0.5" anim_delay="0.3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="0" height="8.21" width="44.481" top="10.917" left="6.168" subtitle_element="0" caption="titulo" locked="0"/>
+                  <content format="txt"><![CDATA[¿Cómo lo vas a aprender?]]></content>
+                </text>
+              
+              
+                <image id="icono_importante" author_id="#201816204350126" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design locked="1"/>
+                  <content file="img-importante.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <consigne id="instruccion" author_id="#201816204350127" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#3C3C3B" align="left" underline="0" italic="1" bold="0" fontsize="14" font="Verdana" anim_start_top="14.782" anim_start_left="99.597" anim_length="0.5" anim_delay="1.5" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="9.76" width="49.786" top="14.782" left="99.597" subtitle_element="0" caption="instruccion" locked="0"/>
+                  <content format="txt"><![CDATA[Presiona los botones de este menú, para desplegar la información.]]></content>
+                </consigne>
+              
+              
+                <image id="linea_instruccion" author_id="#201816204350128" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design locked="1"/>
+                  <content file="LN_instruccion.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#201816204350129" lang_sync="0" lang_sync_content="0" lang_sync_design="0" locked="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="1" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="81.33" width="152.831" top="27.751" left="0.273" subtitle_element="0" caption="image3" locked="0"/>
+                  <content file="@/bloque.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#201816204350130" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="1" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="76.908" width="96.545" top="52.522" left="49.734" subtitle_element="0" caption="image4" locked="0"/>
+                  <content file="@/16.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#201816204350131" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="1" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="76.908" width="96.545" top="6.496" left="49.299" subtitle_element="0" caption="image4" locked="0"/>
+                  <content file="@/16.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#201816204350132" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="1" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="76.908" width="96.545" top="29.596" left="49.734" subtitle_element="0" caption="image4" locked="0"/>
+                  <content file="@/16.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <text author_id="#201816204350133" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="40.459" anim_start_left="52.039" anim_length="0.9" anim_delay="1" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="16.004" width="92.377" top="40.459" left="52.039" subtitle_element="0" caption="text4" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="left"><textformat leftmargin="0"><font face="Trebuchet MS" size="16" color="#303030">El recurso interactivo te ofrece los contenidos temáticos del curso; presenta los conceptos, casos de estudio y las actividades que te permitirán comprender las herramientas de gestión de relacionamiento con el cliente.</font></textformat><br/><textformat leftmargin="0"></textformat><br/><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#201816204350134" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#7A428B" align="left" underline="0" italic="0" bold="1" fontsize="20" font="Trebuchet MS" anim_start_top="35.426" anim_start_left="52.039" anim_length="0.9" anim_delay="1" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="7.162" width="93.656" top="35.426" left="52.039" subtitle_element="0" caption="subtitulo" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="left"><textformat leftmargin="0"><font face="Trebuchet MS" size="18" color="#7A428B"><b>Aprendiendo sobre los Sistemas de pagos electrónicos:</b></font></textformat><br/><textformat leftmargin="0"></b></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#201816204350135" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="63.21" anim_start_left="52.039" anim_length="0.9" anim_delay="2" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="17.259" width="93.935" top="63.21" left="52.039" subtitle_element="0" caption="text4" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="left"><textformat leftmargin="0"><font face="Trebuchet MS" size="16" color="#303030">Junto a tu tutor y colegas empresarios que también participan en el curso podrán conversar para resolver inquietudes, compartir experiencias y expectativas sobre su incursión en el comercio electrónico. </font></textformat><br/><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#201816204350136" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#7A428B" align="left" underline="0" italic="0" bold="1" fontsize="20" font="Trebuchet MS" anim_start_top="58.177" anim_start_left="52.039" anim_length="0.9" anim_delay="2" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="7.162" width="92.76" top="58.177" left="52.039" subtitle_element="0" caption="subtitulo" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="left"><textformat leftmargin="0"><font face="Trebuchet MS" size="18" color="#7A428B"><b>Hablemos sobre los sistemas de pagos electrónicos:</b></font></textformat><br/><textformat leftmargin="0"></b></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#201816204350137" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="80.862" anim_start_left="52.039" anim_length="0.9" anim_delay="3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="20.797" width="92.377" top="80.852" left="52.039" subtitle_element="0" caption="text4" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#FFFFFF"><p align="left"><textformat leftmargin="0"><font face="Trebuchet MS" size="16" color="#7A428B"><b>Me certifico: </b></font><font face="Trebuchet MS" size="16" color="#303030">El objetivo del curso es lograr la certificación; y para esto es necesario responder correctamente 10 preguntas para que puedas evidenciar el aprendizaje que has obtenido.</font></textformat><br/><textformat leftmargin="0"><font face="Trebuchet MS" size="16" color="#303030">Después de aprobar, recibirás la insignia y podrás seguir aprendiendo en los demás cursos que tenemos disponibles sobre: recursos humanos, administración, productividad y operaciones.</font></textformat><br/><textformat leftmargin="0"></textformat><br/><textformat leftmargin="0"></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <arrow author_id="#201816204350138" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design line_style="solid" alpha="100" transparent="0" bgcolor="#330066" border_color="#330066" border_width="3" arrow_width="10" arrow_height="10" anim_start_alpha="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" subtitle_element="0" caption="arrow1" locked="0">
+                    <point1 arrow="0" y="245.95" x="361.05"/>
+                    <point2 arrow="0" y="468.65" x="361.05"/>
+                  </design>
+                </arrow>
+              
+              
+                <image author_id="#201816204350139" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="100" anim_start_height="85.325" anim_start_width="143.451" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="82.02" anim_start_left="24.669" anim_length="0.9" anim_delay="3" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="18.63" width="18.63" top="82.02" left="24.669" subtitle_element="0" caption="image5" locked="0"/>
+                  <content file="@/df-15.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#201816204350140" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="20" anim_start_height="85.325" anim_start_width="143.451" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="35.955" anim_start_left="24.675" anim_length="0.9" anim_delay="1" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="18.63" width="18.63" top="35.955" left="24.675" subtitle_element="0" caption="image5" locked="0"/>
+                  <content file="@/df-13.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#201816204350141" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="20" anim_start_height="85.325" anim_start_width="143.451" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="59.531" anim_start_left="24.675" anim_length="0.9" anim_delay="2" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="18.63" width="18.63" top="59.531" left="24.675" subtitle_element="0" caption="image5" locked="0"/>
+                  <content file="@/df-14.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <text author_id="#2018162218" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="10.628" width="76.507" top="0.284" left="53.656" subtitle_element="0" caption="titulo_pantalla" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Calibri" size="21" color="#FFFFFF"><b>Sistemas de pagos electrónicos</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <button author_id="#20181315478" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="53.766" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="4" mode="button" event="undefined" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <button author_id="#201813154781" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="68.341" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="5" mode="button" event="undefined" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <button author_id="#201813154782" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="83.766" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="6" mode="button" event="undefined" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <text author_id="#201813154783" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="55.993" left="6.773" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>2</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#201813154784" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="70.535" left="6.812" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>3</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text author_id="#201813154785" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="86.245" left="6.63" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>4</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <button author_id="#201813154786" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design anim_start_alpha="0" export="all" alpha="100" proportional="1" streched="0" file_height="0" file_width="0" file_blink="" file_out="" file_off="@/BTN-normal.png" file_roll="@/BTN-morado-sobrevuelo.png" file_on="@/BTN-morador-normal.png" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="13.1" width="7.792" top="37.762" left="6.208" subtitle_element="0" caption="button1" locked="0"/>
+                  <content custom="1">
+                    <action action="gotopage" param="3" mode="button" event="undefined" key="0" time="0"/>
+                    <action action="show_so" param="curso" mode="event" event="" key="0" time="0"/>
+                  </content>
+                </button>
+              
+              
+                <text author_id="#201813154787" lang_sync="0" lang_sync_content="0" lang_sync_design="0">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.493" width="6.662" top="40.415" left="6.682" subtitle_element="0" caption="text3" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Trebuchet MS" size="25" color="#FFFFFF"><b>1</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#20182212432815" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.04" width="9.565" top="111.441" left="8.903" subtitle_element="0" caption="" locked="0"/>
+                  <content file="ICN-pagina.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <text author_id="#20182212432816" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="5.275" width="7.747" top="112.86" left="9.792" subtitle_element="0" caption="texto_paginacion" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Verdana" size="16" color="#FFFFFF">5/6</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#20182212432817" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="4.596" width="5.682" top="113.079" left="2.961" subtitle_element="0" caption="" locked="0"/>
+                  <content file="titulo-pagina.png"><![CDATA[]]></content>
+                </image>
+              
+            </screen>
+          </page>
+        </node>
+        <node id="7" author_id="#20182212411">
+          <metadata>
+            <title><![CDATA[]]></title>
+            <name><![CDATA[]]></name>
+            <keywords><![CDATA[]]></keywords>
+          </metadata>
+          <navigation disable_link="0" disable_index="0"/>
+          <links conditional="0" default_action="" default_param=""/>
+          <page type="observe">
+            <metadata>
+              <capacity><![CDATA[]]></capacity>
+              <competence><![CDATA[]]></competence>
+              <know_how><![CDATA[]]></know_how>
+            </metadata>
+            <navigation disable_back="0" disable_next="0" progress="1"/>
+            <tracking min_tries="0" max_tries="0" masteryscore="100" max_time="" coef="0" track_score="1" track_lesson_location="1"/>
+            <screen author_id="#201822124111" id="page_video">
+              
+                <video id="graphic_play" author_id="#201822124112" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design color="#6D6E71" swap_control_bar="0" export="all" show_central_button="0" show_buttons="1" proportional="1" streched="0" show_controls="1" autostart="0" loop="0" anim_start_top="16.812" anim_start_left="24.675" anim_length="0.5" anim_delay="0.8" anim_autostart="1" anim_easemode="easeOut" anim_easing="Regular" anim="1" height="87.336" width="103.896" top="16.812" left="24.675" subtitle_element="0" caption="video" locked="0"/>
+                  <content file="mxWrCbwWr_k" event="" video_type="youtube"><![CDATA[]]></content>
+                </video>
+              
+              
+                <text id="titulo_pantalla" author_id="#201822124113" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="10.628" width="53.325" top="0.284" left="53.662" subtitle_element="0" caption="titulo_pantalla" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Calibri" size="21" color="#FFFFFF"><b>Sistemas de pagos electrónicos</b></font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <text id="texto_nivel" author_id="#201822124114" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design locked="1"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="left"><textformat leftmargin="0"><font face="Verdana" size="19" color="#FFFFFF">4</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image id="img_paginacion" author_id="#2018221241111" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design locked="1"/>
+                  <content file="ICN-pagina.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <text id="texto_paginacion" author_id="#2018221241112" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="5.275" width="7.747" top="112.86" left="9.792" subtitle_element="0" caption="texto_paginacion" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Verdana" size="16" color="#FFFFFF">6/6</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image id="paginacion" author_id="#2018221241113" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design locked="1"/>
+                  <content file="titulo-pagina.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <image author_id="#20182212432818" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="8.04" width="9.565" top="111.441" left="8.903" subtitle_element="0" caption="" locked="0"/>
+                  <content file="ICN-pagina.png"><![CDATA[]]></content>
+                </image>
+              
+              
+                <text author_id="#20182212432819" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design img_level_8="" img_level_7="" img_level_6="" img_level_5="" img_level_4="" img_level_3="" img_level_2="" img_level_1="" hyperlink_color_roll="#FF0000" hyperlink_color="#0000FF" hyperlink_standard="1" selectable="0" scrollbar="0" anim_start_alpha="0" alpha="100" rotation="0" embed="0" bgcolor="#FFFFFF" transparent="1" bordercolor="#000000" border="0" fontcolor="#000000" align="left" underline="0" italic="0" bold="0" fontsize="14" font="Arial" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="5.275" width="7.747" top="112.86" left="9.792" subtitle_element="0" caption="texto_paginacion" locked="0"/>
+                  <content format="xhtml"><![CDATA[<html><body bgcolor="#000000"><p align="center"><textformat leftmargin="0"><font face="Verdana" size="16" color="#FFFFFF">6/6</font></textformat></p></body></html>]]></content>
+                </text>
+              
+              
+                <image author_id="#20182212432820" lang_sync="1" lang_sync_content="0" lang_sync_design="1">
+                  <design anim_start_alpha="0" anim_start_height="0" anim_start_width="0" stoppropagation="0" vflip="0" hflip="0" rotation="0" alpha="100" proportional="1" streched="0" anim_start_top="0" anim_start_left="0" anim_length="2" anim_delay="0" anim_autostart="1" anim_easemode="easeOut" anim_easing="None" anim="0" height="4.596" width="5.682" top="113.079" left="2.961" subtitle_element="0" caption="" locked="0"/>
+                  <content file="titulo-pagina.png"><![CDATA[]]></content>
+                </image>
+              
+            </screen>
+          </page>
+        </node>
+      </nodes>
+    </theme>
+  </root>
+</course>
